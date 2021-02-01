@@ -4,7 +4,7 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class TipViewModel extends ViewModel {
+class TipTipViewModel extends ViewModel {
     private CustomerTip tip = new CustomerTip();                  // instatiate the tip calculator
 
 
